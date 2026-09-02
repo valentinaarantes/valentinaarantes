@@ -12,7 +12,7 @@
 
 ### 🎀 about me
 
-- 📚 **focus:** learning C++ and practicing initial string operations.
+- 📚 **studying:** learning C++ and practicing initial string operations.
 - 💼 **experience:** customer support / call center & storymaker (content creation and video editing).
 - 🎯 doing my best always!
 
