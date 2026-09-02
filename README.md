@@ -2,7 +2,7 @@
 
 # Valentina
 
-*student of computer science* 
+*computer science undergraduate* 
 
 ---
 
