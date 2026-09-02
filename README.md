@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**valentinaarantes/valentinaarantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Valentina
 
-Here are some ideas to get you started:
+*student of computer science* 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🌸 *learning a little bit every day at university* 🌸
+
+</div>
+
+### 🎀 about me
+
+- 📚 **focus:** learning C++ and practicing initial string operations.
+- 💼 **experience:** customer support / call center & storymaker (content creation and video editing).
+- 🎯 doing my best always!
+
+
+</div>
